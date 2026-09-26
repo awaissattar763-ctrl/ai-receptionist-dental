@@ -1,5 +1,7 @@
 # SmileCare Dental — AI Receptionist (Concept Demo)
 
+**Live demo:** https://awaissattar763-ctrl.github.io/ai-receptionist-dental/
+
 A polished **concept demo** of an AI receptionist for a dental clinic, built to show
 prospective clients what an AI front-desk could do for their business.
 
