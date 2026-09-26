@@ -1,0 +1,24 @@
+{
+  "name": "ai-receptionist-dental-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Concept demo: AI receptionist chat widget + admin dashboard for a fictional dental clinic. Simulated responses, no live telephony.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^15.5.4",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.12",
+    "tailwindcss": "^4.1.12",
+    "typescript": "^5.9.2",
+    "@types/node": "^20.19.11",
+    "@types/react": "^19.1.12",
+    "@types/react-dom": "^19.1.9"
+  }
+}
